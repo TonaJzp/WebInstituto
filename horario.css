@@ -1,0 +1,21 @@
+table {
+	margin: 0 auto;
+    width:1200px;
+    height:500px;
+    color: black;
+}
+
+h1 {
+	text-align: center;
+}
+
+td{
+	padding-left: 10px;	
+}
+
+.titulo{
+	background-color: #26272b;
+	color: orange;
+	font-size: 18px;
+	text-align: center;
+}
